@@ -11,3 +11,4 @@ public class Basicoperations{
         System.out.println("Multiplication: "+prod);
     }
 }
+
